@@ -1,0 +1,759 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--Menu Card ID & Data-->
+    <string name="card1_menu">m1</string>
+    <string name="card1_menu_title">Cara Merawat Anggrek</string>
+    <string name="card1_menu_content1">Anggrek telah lama menjadi simbol cinta dan keindahan.
+        Selain ditanam oleh penggemarnya karena keelokan dan pesonanya, anggrek juga disukai sebagai
+        korsase yang dikenakan pada gaun, atau sebagai gelang di pesta dansa dan acara-acara khusus.
+        Pada banyak kesempatan, mulai dari pernikahan hingga konferensi, anggrek ditempatkan di
+        meja-meja sebagai hiasan.\n\nDengan lebih dari 750 genus anggrek, lebih dari 30.000 anggrek hibrida dan lebih banyak lagi
+        anggrek jenis baru setiap tahun, ada berbagai macam anggrek yang bisa dipilih bagi para penggemar
+        anggrek. Memang, anggrek tumbuh di setiap benua kecuali Antartika, sehingga penanam anggrek dapat
+        memilih antara anggrek asli atau anggrek jenis baru dari hasil persilangan, tergantung pada ketersediaan
+        dan kecocokan lingkungan. Dan ketika penggemar anggrek sejati bisa (dan harus) menghabiskan banyak waktu
+        untuk rajin membaca banyak buku tentang pertumbuhan dan perawatan anggrek, seorang penanam pemula perlu
+        memulainya dengan cara lain. Pada artikel ini, Anda akan mempelajari tentang dasar-dasar merawat anggrek
+        yang biasanya tangguh dan mudah tumbuh. Setelah Anda memahami dasar-dasar ini, jika Anda masih bersemangat
+        besar untuk menanam anggrek secara lebih intensif, Anda bisa mengeksplorasi varietas anggrek yang lebih
+        menantang ketika Anda sudah memiliki rasa percaya diri.</string>
+    <string name="card1_menu_title1">Metode 1 : Memilih anggrek</string>
+    <string name="card1_menu_content2"><b>1. Carilah anggrek yang tepat untuk rumah Anda.</b> Perawatan anggrek yang tepat dimulai dengan memilih tanaman yang sesuai
+        dengan lingkungan tertentu Anda. Anggrek yang dibahas dalam artikel ini adalah yang disarankan bisa tumbuh
+        di dalam rumah karena kemampuan adaptasinya terhadap hampir semua kondisi, mudah tumbuh, mudah didapatkan,
+        dan bunganya yang indah. Jika Anda ingin mengembangkan anggrek diluar varietas yang disebutkan dalam artikel
+        ini nantinya, sebaiknya Anda melakukan banyak penelitian tentang kebutuhan khusus dari varietas anggrek yang
+        lebih rapuh dan rewel. Beberapa hal yang perlu diingat ketika memilih anggrek diantaranya:</string>
+    <string name="card1_menu_content3">• Apakah anggrek memiliki cukup ruang ketika tumbuh besar? Atau perlu dipindah
+        ke tempat lain? Beberapa anggrek bisa tumbuh secara masif ketika sudah dewasa dan yang terbaik adalah ditempatkan
+        di dalam rumah kaca.\n\n
+        • Dapatkah Anda memenuhi persyaratan suhu yang dibutuhkan oleh anggrek? Anggrek dapat dibagi menjadi tiga jenis
+        berdasarkan persyaratan suhu––dingin, sedang dan hangat, yang berarti bahwa anggrek membutuhkan suhu malam minimum
+        tertentu agar bisa tumbuh dengan sukses.\n\n
+        • Apakah Anda memiliki rumah kaca atau konservatori jika diperlukan? Banyak anggrek yang akan tumbuh dengan subur
+        di lingkungan seperti itu daripada jika ditempatkan di dalam rumah atau teras belakang. Jika Anda tidak memilikinya,
+        sebaiknya pilihlah anggrek yang suka berada di dalam ruangan (lihat daftarnya di bawah).</string>
+    <string name="card1_menu_content4"><b>2. Belilah tanaman yang sudah berbunga.</b> Tanaman yang sudah memiliki bunga
+        adalah pembelian yang bagus, karena bibit anggrek memerlukan waktu hingga lima tahun untuk menghasilkan bunga.
+        Anda mungkin tidak ingin menunggu selama itu, kecuali Anda sangat sabar, atau sudah memiliki rumah kaca yang
+        penuh dengan anggrek.</string>
+    <string name="card1_menu_content5"><b>3. Pertimbangkan syarat pertumbuhan Anda.</b> Pilihlah anggrek berdasarkan
+        syarat tumbuhnya di rumah Anda. Ini penting karena setiap jenis anggrek memiliki kebutuhan yang berbeda,
+        tergantung pada asal-usul anggrek. Bacalah selalu label yang disertakan dalam petunjuknya untuk memastikan
+        bahwa tanaman ini cocok untuk kondisi rumah dan taman Anda. Berikut ini adalah beberapa spesies umum anggrek
+        yang biasanya tumbuh dengan baik di lingkungan rumah:</string>
+    <string name="card1_menu_content6"><b>• Phalaenopsis:</b> Biasanya disebut sebagai anggrek ngengat, ini adalah anggrek
+        yang elegan untuk digunakan dalam ruangan. Tangkai bunga warna-warninya yang panjang tetap segar selama berbulan-bulan.
+        Munculnya bunga dimulai pada musim dingin atau awal musim semi. Anggrek ini umumnya lebih sedikit membutuhkan cahaya
+        daripada anggrek cattleya (lihat berikutnya) dan tumbuh dengan baik di hampir semua kondisi indoor.</string>
+    <string name="card1_menu_content7"><b>• Cattleya:</b> anggrek ini paling mudah dikenali karena penggunaannya dalam korsase
+        dan memiliki bunga yang dapat bertahan mulai dari dua sampai enam minggu. Anggrek ini biasanya berbunga setahun sekali
+        selama musim semi atau musim gugur, tetapi memerlukan jumlah cahaya dua kali lipat dari anggrek ngengat agar bisa tumbuh
+        dengan baik di dalam rumah.</string>
+    <string name="card1_menu_content8"><b>• Dendrobium:</b> Anggrek yang indah ini mengeluarkan tangkai bunga yang panjang dan anggun
+        yang biasanya berwarna putih, lembayung atau kombinasi dari keduanya, selama musim gugur dan musim dingin. Bunganya bisa tetap
+        mekar selama sekitar tiga sampai empat minggu, dan merupakan salah satu tanaman yang paling mudah dirawat.</string>
+    <string name="card1_menu_content9" tools:ignore="Typos"><b>• Paphiopedilum:</b> Nama populer untuk anggrek ini adalah Lady Slipper (di Indonesia dikenal
+        dengan nama anggrek kantong semar), karena kelopak ketiga diubah menjadi bentuk kantong yang terlihat mirip dengan sandal wanita
+        (slipper). Fungsi kantongnya untuk menjebak serangga sehingga mereka dipaksa untuk memanjat melewati staminode, yang dibaliknya
+        terkumpul atau tersimpan serbuk sari. Daunnya cukup menarik dengan warna hijau atau belang-belang hijau dan putih. Anggrek ini
+        membutuhkan cahaya yang terang, tetapi tidak boleh terkena sinar matahari langsung. Di rumah, yang terbaik adalah ditempatkan
+        di jendela sebelah timur, barat atau selatan yang teduh (untuk belahan bumi bagian utara). Daunnya secara alami harus semi-tegak
+        dan kukuh, tidak terkulai. Suhu ruangan adalah ideal untuk pertumbuhan mereka.</string>
+    <string name="card1_menu_title2">Metode 2 : Penyiraman dan Pemupukan</string>
+    <string name="card1_menu_content10"><b>1. Pelajari cara menyiram anggrek Anda.</b> Orchidaceae adalah salah satu famili tanaman berbunga
+        terbesar, sehingga terdapat banyak sub-famili, atau variasi, dan mereka membutuhkan persyaratan penyiraman yang berbeda. Perlakuan
+        yang membuat satu spesies kekeringan bisa menimbulkan risiko tenggelam bagi spesies yang lain. Umumnya, siram anggrek Anda setiap
+        lima sampai duabelas hari, tergantung pada jenis anggrek yang Anda miliki, suhu, dan musimnya—–atau lebih banyak disiram di musim
+        panas, sedikit disiram di musim dingin. Meskipun penyuluh nursery atau florist bisa memberi informasi yang spesifik kepada Anda, ada
+        sebuah panduan umum untuk membantu Anda dalam menentukan cara penyiraman terbaik untuk anggrek Anda:</string>
+    <string name="card1_menu_content11">• Jagalah agar varietas-varietas ini tetap lembab (bukan basah) secara merata setiap saat:</string>
+    <string name="card1_menu_content12">• Paphiopedilum\n• Miltonia\n• Cymbidium\n• Dontoglossum.</string>
+    <string name="card1_menu_content13">• Jagalah agar varietas-varietas ini tetap lembab secara merata ketika masa pertumbuhan aktif,
+        tapi biarkan tetap kering diantara waktu penyiraman jika tidak dalam masa pertumbuhan aktif:</string>
+    <string name="card1_menu_content14">• Cattleya\n• Oncidium\n• Brassia\n• Dendrobium</string>
+    <string name="card1_menu_content15">• Jagalah varietas-varietas ini hampir kering diantara penyiraman:</string>
+    <string name="card1_menu_content16">• Phalaenopsis\n• Vanda\n• Ascocenda</string>
+    <string name="card1_menu_content17">• Berhati-hatilah untuk tidak membasahi daunnya ketika Anda menyiram anggrek Anda. Jika daunnya basah,
+        keringkan dengan lembut menggunakan tisu atau kapas.</string>
+    <string name="card1_menu_content18"><b>2. Rawatlah medianya.</b> Angkatlah pot bagian dalam dari pot hiasan di bagian luar, letakkan di wastafel
+        atau bak mandi. Tambahkan pupuk anggrek pada kaleng atau wadah penyiraman, dan siram sepenuhnya pot tersebut. Biarkan airnya mengalir sampai
+        habis sebelum menempatkannya kembali ke dalam pot hiasannya. Jangan pernah membiarkannya terendam air, karena tanaman itu bisa mati.</string>
+    <string name="card1_menu_content19">• Catatan: Anggrek epifit (tumbuh dari cabang) tidak ditanam di dalam tanah seperti varietas anggrek terestrial
+        (tumbuh di dalam tanah), tetapi dalam batok kelapa, kulit kayu atau gabus. Atau, mereka dapat tumbuh di keranjang anyaman atau kayu yang ditata
+        seperti rakit. Akar mereka tumbuh dari atas, dan bukan di bagian bawah seperti yang biasa ditemukan pada tanaman terestrial.</string>
+    <string name="card1_menu_content20"><b>3. Pupuklah anggrek Anda.</b> Secara umum, pemberiannya disarankan sebulan sekali untuk hampir semua unsur pupuk.
+        Carilah pupuk yang mengandung nitrogen (N), fosfor (P) dan kalium (K), ditambah elemen seperti besi (Fe). Gunakan pupuk dengan persentase nitrogen
+        yang lebih tinggi ketika keluar tunas baru, dan pupuklah dengan lebih banyak fosfor dan kalium nanti ketika sedang musimnya. Jangan berlebihan dalam
+        memupuk anggrek––ini bisa merusak anggrek.</string>
+    <string name="card1_menu_content21">• Jika Anda menanam anggrek pada kulit kayu, gunakan pupuk dengan nitrogen yang lebih tinggi secara signifikan
+        (dengan perbandingan 30 (N)-10 (P)-10 (K)). Bakteri di dalam kulit kayu yang membusuk akan mengkonsumsi banyak nitrogen.\n\n• Siram anggrek Anda
+        secara menyeluruh sebelum dipupuk.</string>
+    <string name="card1_menu_title3">Metode 3 : Pengepotan</string>
+    <string name="card1_menu_content22"><b>1. Pahami kebutuhan yang berbeda dari anggrek terestrial dan epifit.</b> Banyak anggrek yang berjenis epifit
+        (tumbuh pada pohon atau cabang) dan membutuhkan media tanam yang sangat berbeda dari anggrek terestrial; memang, anggrek biasanya mati jika ditanam
+        di tanah apabila bukan dari jenis anggrek tanah. Epifit memiliki akar berdaging tebal yang digunakan untuk melekatkan diri pada pohon atau kulit kayu
+        dan untuk menyerap air dan nutrisi; sedang anggrek yang lain memiliki akar udara yang akan tumbuh menggantung. Anggrek epifit tumbuh dengan baik pada
+        campuran yang tidak diberi tanah atau melekat pada potongan kulit kayu atau gabus. Anggrek epifit membutuhkan media tanam dengan aerasi dan drainase
+        yang sangat baik.</string>
+    <string name="card1_menu_content23"><b>2. Sediakan media tanam yang cocok untuk anggrek Anda.</b> Media tanam yang biasa digunakan diantaranya kulit cemara,
+        sabut kelapa, sphagnum moss, serat pohon pakis, perlite, atau campuran dari bahan-bahan tersebut. Tetapi, media tanam akan tergantung pada jenis anggreknya––media
+        tanam anggrek terestrial sebagian besar harus dari tanah liat dengan bagian yang sama dari bahan-bahan seperti sphagnum moss, gambut basah atau pasir yang keras.
+        Anggrek epifit harus memiliki bahan tumbuh dengan perbandingan yang sama dari sphagnum moss, kulit kayu ditumbuk halus, vermikulit dan gambut lembab.
+        Yang termudah adalah membeli media yang sudah dicampur yang cocok untuk jenis anggrek tersebut, dan Anda harus selalu tahu kebutuhan spesifik dari varietas anggrek
+        yang Anda tanam, karena kebutuhannya bisa sedikit berbeda.</string>
+    <string name="card1_menu_content24">• Anda bisa membeli pot yang sudah diberi media tanam campuran untuk anggrek atau Anda bisa mencampur sendiri medianya
+        yang berisi campuran dari cacahan serat pohon pakis, batu vulkanik, arang, sedikit gambut, kulit cemara atau kombinasi dari bahan-bahan itu.</string>
+    <string name="card1_menu_content25"><b>3. Gantilah potnya jika diperlukan.</b> Anda perlu mengganti potnya sekali-sekali, baik untuk menyegarkan medianya,
+        maupun untuk menyediakan ruang untuk pertumbuhannya. Musim semi adalah waktu yang biasanya digunakan untuk mengganti pot anggrek. Berikut ini beberapa
+        hal yang perlu dipertimbangkan:</string>
+    <string name="card1_menu_content26">• Pada umumnya, anggrek yang ditanam di kulit kayu harus diganti potnya setiap 18 sampai 24 bulan.\n\n• Pilih ukuran pot
+        berdasarkan ukuran massa akar. Anggrek cenderung lebih suka dengan pot yang lebih kecil. Dengan pot yang secara signifikan lebih besar, anggrek akan
+        menghabiskan sebagian besar energinya untuk perakaran, dan tidak menunjukkan pertumbuhan baru atau dedaunan yang nyata selama berbulan-bulan, jadi pilihlah
+        pot yang kecil. Semua anggrek suka sedikit menjalinkan akar mereka dengan akar yang menjulur dari bagian atas media (atau akar udara seharusnya menggantung
+        dengan bebas). Tetapi, karena tanaman menghasilkan lebih banyak batang atau spike (tangkai bunga) baru, pada akhirnya mereka akan tumbuh lebih besar dari
+        potnya.\n\n• Pot akan berpengaruh pada cara Anda menyiram. Anggrek yang ditanam dalam pot yang berpori seperti tanah liat (baik untuk anggrek) akan membutuhkan
+        penyiraman yang lebih sering dibandingkan anggrek dalam wadah plastik.\n\n• Gunakan selalu pot yang memiliki lubang drainase. Air yang menggenang akan membuat
+        akarnya membusuk dan anggrek akan menjadi mulsa.\n\n• Pada pot yang lebih besar, media di bagian tengah mungkin membutuhkan waktu yang lebih lama untuk kering––suatu
+        kondisi yang akan membahayakan anggrek Anda. Untuk mengatasinya, gunakan pecahan pot tanah liat di bagian bawah wadah agar drainasenya lebih lancar.\n\n• Jika
+        menggunakan wadah tanah liat, perbesar lubang drainasenya atau buatlah lubang tambahan di bagian samping (dekat bagian bawah) pot.</string>
+    <string name="card1_menu_content27"><b>4. Tanam kembali anggrek sesuai dengan jenisnya.</b> Tanamlah kembali tanaman Anda dengan hati-hati ke dalam pot yang sedikit
+        lebih besar atau wadah yang cocok, dengan menggunakan media berpori yang cocok seperti yang disarankan di atas. Pastikan potnya selalu memiliki drainase yang baik.</string>
+    <string name="card1_menu_content28">• Untuk anggrek terestrial: keluarkan tanaman dari pot aslinya. Lepaskan media yang lama dengan hati-hati. Tempatkan tanaman ke dalam
+        pot yang bersih, taburi dengan media yang baru di sekitar akar. Kencangkan pada tempatnya menggunakan dibble (skop kecil) atau tongkat kayu kecil. Sisakan sedikit ruang
+        antara kompos dengan pinggiran pot untuk ruang penyiraman. Jarak sekitar 12 mm sudah cukup memadai.\n\n• Untuk anggrek epifit: Lepaskan media lama yang lembek. Potonglah
+        akar yang mati dan buang. Pegang anggrek secara terbalik dan balutkan media baru di sekitar akar untuk membuat gulungan yang kuat. Putar sisi kanan anggrek dan letakkan
+        kembali ke dalam wadah pilihan Anda. Anggrek epifit yang baru diganti pot tidak boleh disiram selama sekitar satu minggu, agar akarnya terbentuk kembali. Setelah itu siram
+        secukupnya, untuk memastikan akar barunya tidak rusak.</string>
+    <string name="card1_menu_content29"><b>5. Setelah pot diganti, jagalah agar medianya tetap lembab.</b> Ini penting terutama ketika akhir musim semi hingga musim panas.</string>
+    <string name="card1_menu_title4">Metode 4 : Pemangkasan dan Perawatan</string>
+    <string name="card1_menu_content30"><b>1. Peliharalah mekarnya.</b> Puncak waktu mekar dimulai dari akhir musim dingin, terutama Februari dan Maret di belahan bumi utara. Waktu
+        mekar biasanya berlangsung selama empat sampai duabelas minggu. Ketika musim mekar surut, potong spike-nya 12mm di bagian atas di tempat spike tersebut menjulur keluar dari
+        daunnya. Pangkas juga daun dan jaringan yang mati, termasuk tangkai bunga yang lama, daun yang sudah tua, setiap bagian tanaman yang membusuk, akar mati, dll.</string>
+    <string name="card1_menu_content31">• Jika terserang jamur yang membuatnya busuk atau penyakit, potong sedikit melebihi jaringan yang terinfeksi untuk membantu menghentikan
+        perkembangan infeksinya.</string>
+    <string name="card1_menu_content32"><b>2. Jangan memangkas anggrek seperti semak-semak.</b> Jika Anda memotong bagian dari daun anggrek, sisa daun yang tertinggal bisa mati,
+        dan memotong pseudobulb yang masih hidup akan merusak anggrek Anda.</string>
+    <string name="card1_menu_content33"><b>3. Gunakan alat yang steril ketika melakukan pemangkasan pada anggrek.</b> Ini akan membantu mencegah tersebarnya penyakit dari satu
+        tanaman ke tanaman yang lain. Disarankan bagi Anda untuk merendam peralatan ke dalam larutan pemutih sebelum digunakan, atau gunakan pisau cukur sekali pakai.</string>
+    <string name="card1_menu_content34"><b>4. Perhatikan pertumbuhan baru.</b> Ini akan berbentuk batang baru yang tumbuh dari dasar batang yang lama. Dalam kondisi yang tepat,
+        batang baru tersebut bisa lebih besar daripada batang induk sebelum siap untuk mekar lagi.</string>
+    <string name="card1_menu_content35">• Suhu dingin di malam hari membantu untuk memulai kemunculan bunga. Dengan perawatan yang tepat sesuai dengan kebutuhan khusus dari varietasnya,
+        tanaman anggrek akan tumbuh dan mekar setiap tahun.</string>
+    <string name="card1_menu_title5">Metode 5 : Ventilasi Udara</string>
+    <string name="card1_menu_content36"><b>1. Jagalah agar suhunya tetap sesuai.</b> Yang terbaik adalah 18-30ºC. Dalam waktu yang pendek, mereka bisa bertahan dalam suhu yang berkisar
+        antara 16 sampai 37ºC, tetapi mereka tidak menyukai perubahan suhu secara mendadak. Suhu dingin akan menyebabkan daunnya menguning dan akhirnya rontok. Jika ini terjadi, petiklah
+        daun yang menguning dan teruskan merawat tanaman seperti biasa.</string>
+    <string name="card1_menu_content37"><b>2. Pastikan sirkulasi udara sudah tepat.</b> Sirkulasi udara yang baik bisa membuat perbedaan terhadap kesehatan anggrek Anda. Ini akan membantu
+        anggrek Anda sembuh jika anggrek Anda terserang jamur atau hama kutu yang harus diobati. Sirkulasi udara juga merupakan bagian yang penting sebagai pencegahan dari serangan hama dan
+        jamur karena bisa membuat daun dan bunganya tetap kering.</string>
+    <string name="card1_menu_content38">• Di musim panas, bukalah semua jendela sehingga aliran udara yang alami akan mensirkulasi udara. Ini meningkatkan penguapan air dan banyak karbon
+        dioksida segar. Angin sepoi-sepoi juga akan membantu anggrek untuk mengatasi terik sinar matahari tanpa membuat daunnya terbakar.\n\n• Di musim dingin (atau di musim panas, ketika
+        siang hari), gunakan kipas yang bisa berputar untuk memutar udara dengan lembut. Pindahkan kipasnya sesekali untuk menghindari hembusan udara yang berlebihan di satu tempat.</string>
+    <string name="card1_menu_title6">Metode 6 : Varietas Anggrek Dalam Ruangan</string>
+    <string name="card1_menu_content39"><b>1. Daftar berikut ini menunjukkan anggrek yang biasanya dapat tumbuh di dalam ruangan, meskipun harus diiringi dengan penempatan, pencahayaan
+        tambahan dan pengendalian suhu secara hati-hati:</b></string>
+    <string name="card1_menu_content40">• Brassolaeliocattleya "Norman's Bay"\n• \'Cattleya bowringiana\n• Coelogyne cristata\n• Cymbidium devonianum\n• Cymbidium"Touchstone"\n•
+        Dendrobium nobile\n• Epidendrum cochliatum (dikenal juga sebagai Encyclia cochleata)\n• Laelia enceps\n• Maxillaria tenufolia\n• Miltonia clowesii\n•
+        Paphiopedilum callosum\n• Paphiopedilum "Honey Gorse"\n• Pleione formosana\n• Vanda cristata.</string>
+    <string name="card1_menu_content41">• Salah satu cara tercepat yang bisa menyebabkan kematian anggrek adalah dengan membiarkan anggrek berada di dalam pot yang tergenang air. Frekuensi
+        penyiraman tergantung pada jenis anggrek, media, kondisi cahaya, karakteristik pot dan suhu.\n\n• Pemupukan: Anggrek memerlukan pemupukan secara teratur agar bisa tumbuh dan berbunga
+        dengan baik, tetapi terlalu banyak pupuk merusak tanaman dengan cepat. Jenis pupuk yang larut dalam air yang diformulasi khusus untuk anggrek bisa didapatkan di hampir semua toko pertanian
+        dan mudah digunakan.\n\n• Gunakan pupuk larut setiap bulan, sesuai dengan kadar yang disarankan pada kemasannya. Larutan pupuk cair dapat digunakan untuk menyiram tanaman setiap minggu selama
+        musim pertumbuhan. Setiap bulan, gunakan air biasa untuk membilas pot dari timbunan garam pupuk.\n\n• <b>Air sangat penting untuk phalaenopsis</b>, karena anggrek ini tidak memiliki organ (pseudobulbs)
+        untuk menyimpan air. <b>Jangan biarkan phalaenopsis benar-benar kering</b>. Siram secara menyeluruh, dan jangan disiram lagi sampai hampir kering di seluruh bagian pot. Jangan biarkan air menempel
+        pada daun atau di ketiak daun, karena bisa menyebabkan anggrek mudah terserang penyakit dan mati.\n\n• Setelah berbunga, ketika pertumbuhan daun berhenti, kurangi penyiraman dan pemberian pupuk sampai
+        anggrek mulai memproduksi daun baru kembali.\n\n• Anggrek yang tumbuh di kulit kayu membutuhkan pupuk dengan perbandingan nitrogen lebih tinggi, misalnya 30-10-10 atau 15-5-5. Anggrek yang ditempelkan
+        dan yang tidak ditanam di kulit kayu tumbuh dengan baik dengan perbandingan formula pupuk yang sama, misalnya 20-20-20. Formula berjenis "pemacu keluarnya bunga" dapat digunakan di musim gugur
+        yang memiliki formulasi fosfor yang lebih tinggi (angka di bagian tengah), misalnya 10-30-20.\n\n• Tanaman yang ditanam di pot kecil atau tanah liat dan yang tumbuh pada campuran kulit
+        kayu secara terbuka bisa memerlukan penyiraman yang lebih sering. Anggrek beristirahat setelah berbunga; penyiraman harus dikurangi pada saat itu.\n\n• Biasanya, ketika anggrek tumbuh dengan aktif,
+        siramlah sekali seminggu dan biarkan sampai sedikit kering sebelum penyiraman berikutnya. Pada setiap penyiraman, gunakankan air dalam jumlah yang cukup sehingga air bisa mengalir keluar dari
+        bagian bawah pot.\n\n• Masukan 3-4 buah es batu dalam sekali seminggu. Jangan memasukkan lebih dari satu buah es batu untuk tanaman yang berukuran kurang dari 15 cm dalam jangka waktu satu minggu.</string>
+    <string name="card1_menu_content42">• Penyakit yang biasanya menimbulkan masalah pada anggrek diantaranya bintik-bintik pada daun, kelopak bunga membusuk, dan penyakit jamur lainnya seperti black
+        root. Masalah lain yang biasa muncul adalah gagal berbunga, yang biasanya disebabkan oleh kondisi pertumbuhan yang buruk, terutama karena cahaya dan/atau pupuk yang kurang memadai.\n\n• Menyingkirkan
+        scale (sejenis hama) secara fisik kemudian mengendalikan tanaman ketika belum dewasa dengan semprotan kimia bisa sedikit membantu tanaman yang diserang hama. Bekicot dan siput bisa memangsa tunas,
+        bunga, daun dan batang yang lunak.\n\n• Virus pada saat ini menjadi masalah yang tidak bisa disembuhkan dan bisa sulit dibedakan dengan infeksi jamur. Mendapatkan informasi dari orang yang profesional
+        adalah ide yang baik jika Anda tidak yakin. Jika anggrek Anda terserang virus, buanglah dengan segera dan semprot pot Anda dengan pembasmi hama secara menyeluruh jika Anda berencana untuk menggunakannya
+        kembali.\n\n• Hama serangga yang biasa menyerang diantaranya kutu putih, tungau laba-laba, scale dan thrips. Scale biasanya melekat di bagian bawah daun, dan tanaman yang sudah penuh dikerumuni hama ini
+        harus dibuang.\n\n• Anggrek rentan terhadap sejumlah serangga dan masalah penyakit.</string>
+
+    <string name="card2_menu">m2</string>
+    <string name="card2_menu_title">Cara Menanam Anggrek</string>
+    <string name="card2_menu_content1">Anggrek adalah salah satu bunga yang paling cantik di antara tanaman lainnya, karena memiliki gabungan antara tampilan yang eksotik dan berbagai macam karakteristik.
+        Anggrek adalah tanaman yang cukup istimewa, memiliki lebih dari 30.000 spesies yang berbeda dan lebih dari 200.000 varietas hibrid — membuat anggrek sebagai famili tanaman yang paling besar di dunia.
+        Dapat tumbuh di dalam dan luar ruangan, anggrek tidak diragukan lagi adalah tanaman yang unik, namun sayangnya bagi beberapa orang, anggrek sulit ditanam dengan baik. Seseorang yang ingin menanam anggrek
+        harus mempersiapkan diri untuk menghadapi baik kegagalan maupun keberhasilan, karena menanam tanaman cantik ini bisa memberikan hasil yang sangat beragam.</string>
+    <string name="card2_menu_title1">Metode 1 : Menanam Anggrek di Pot</string>
+    <string name="card2_menu_content2"><b>1. Pilih salah satu spesies anggrek</b>. Beberapa anggrek lebih mudah untuk ditanam dibandingkan dengan yang lainnya. Anggrek Cattleya, Phalaenopsis dan Paphiopedilum
+        adalah salah satu contoh yang paling mudah ditanam dan disarankan untuk penanam anggrek pemula. Namun begitu, diyakini ada lebih dari 20.000 spesies anggrek - jumlah ini lebih besar 2 kali lipat dari
+        spesies unggas dan 4 kali lipat lebih besar dari spesies mamalia yang ada di dunia. Sehingga hampir pasti ada satu jenis anggrek untuk setiap tipe orang.</string>
+    <string name="card2_menu_content3" tools:ignore="Typos">• Phalaenopsis, Dendrobium dan Oncidium mungkin adalah genus anggrek yang paling banyak dijual. Phalaenopsis dikenal sebagai "moth orchid" dan sangat populer di antara
+        para penanam anggrek pemula; genus Dendrobium meliputi 1.200 spesies anggrek dan merupakan tipe anggrek klasik; Oncidium dapat dikenali melalui sayap berkolom dan kalus pada bagian lidah dari
+        bunganya.\n\n• Genus anggrek yang berbeda memiliki kelembaban, suhu pertumbuhan, jadwal pemberian air, dan kebutuhan cahaya ideal yang berbeda-beda. Berdiskusilah dengan petani anggrek lokal atau
+        kunjungi perkumpulan pecinta anggrek di sekitar Anda untuk mengetahui apa yang dibutuhkan agar anggrek Anda dapat tumbuh dengan baik.</string>
+    <string name="card2_menu_content4"><b>2. Pilih jenis tanah yang cocok untuk anggrek Anda</b>. Beberapa orang yang baru pertama kali menanam anggrek membuat kesalahan dengan berasumsi bahwa anggrek perlu
+        ditanam di dalam pot berisi tanah seperti tanaman bungan lainnya, sehingga memilih tanah untuk digunakan. Hal ini akan menjadi kesalahan yang besar. Kebanyakan akar anggrek membutuhkan lebih banyak
+        udara daripada yang dapat diberikan oleh tanah di dalam pot, jadi pilihlah campuran yang lebih berongga dan longgar.</string>
+    <string name="card2_menu_content5">• Banyak orang menggunakan potongan kayu, lumut spaghnum, potongan batok kelapa, arang, perlite dan bahkan styrofoam sebagai campuran media pot. Lakukan percobaan dengan
+        campuran berongga yang Anda miliki atau tanyakan kepada petani anggrek yang ahli untuk mengetahui resep khususnya.</string>
+    <string name="card2_menu_content6"><b>3. Coba campuran media pot dari beberapa komponen</b>. Untuk kemudahan, Anda bisa membuat dua jenis campuran media pot dasar yang bisa digunakan untuk sebagian besar jenis anggrek.</string>
+    <string name="card2_menu_content7">• Buatlah "campuran media pot halus" yang cocok untuk anggrek kecil seperti sebagian oncidium, miltonia dan anggrek lain yang memiliki akar kecil dan menyukai kelembaban dibandingkan
+        anggrek kebanyakan:</string>
+    <string name="card2_menu_content8">• 4 bagian batang pohon cemara atau batok kelapa halus\n\n• 1 bagian arang halus\n\n• 1 bagian perlite</string>
+    <string name="card2_menu_content9">• Buat "campuran media pot" yang cocok untuk cattleyas, phalaenopsis, dan anggrek dewasa lainnya. Jika Anda tidak yakin akan menggunakan campuran yang mana, cobalah campuran pot medium
+        sebelum menggunakan campuran pot yang halus:</string>
+    <string name="card2_menu_content10">• 4 bagian batang pohon cemara atau batok kelapa ukuran medium\n\n• 1 bagian arang berukuran medium\n\n• 1 bagian perlite</string>
+    <string name="card2_menu_content11"><b>4. Terkecuali jika tanaman anggrek Anda berukuran besar, gunakan pot terlindung untuk anggrek Anda</b>. Banyak anggrek nyaman tumbuh terikat akarnya. Pilihlah pot yang lebih kecil untuk
+        menanam anggrek Anda, pastikan bahwa ada banyak lubang di dalam pot untuk aliran air. Ingat bahwa musuh utama anggrek seringkali adalah kelebihan air. Beberapa jenis anggrek seperti cymbidium, akan memerlukan pot yang lebih
+        panjang untuk mengakomodasi sistem akar mereka yang sangat panjang. Jenis pot berikut ini akan memberikan Anda pilihan selain pot gerabah tradisional (yang secara umum bisa digunakan dengan baik):</string>
+    <string name="card2_menu_content12">• Pot jaring, yang memiliki jaring-jaring yang dapat memberikan kemudahan bagi anggrek untuk bernapas. Dapat digantung di lokasi tertentu untuk memperoleh cahaya matahari yang lebih
+        baik.\n\n• Pot plastik bening, yang akan memberikan akses sinar matahari yang lebih baik bagi akar anggrek. Pot ini memungkinkan para penanam anggrek untuk mengamati sistem akar anggreknya tanpa mengganggu
+        tanamannya.\n\n• Pot kayu, yang dibuat dari kayu tahan busuk. Lapisi pot kayu Anda dengan lapisan lumut sebelum menambahkan campuran media tanam.</string>
+    <string name="card2_menu_content13"><b>5. Jika Anda mulai menanam dari bijinya, bersabarlah</b>. Pastikan tangan dan lingkungan sekitar Anda steril. Sebarkan beberapa biji anggrek di bagian bawah permukaan pot. Tambahkan pupuk
+        yang ramah lingkungan, jika perlu. Jangan lupa untuk menggunakan campuran pot yang terbaik.</string>
+    <string name="card2_menu_content14"><b>6. Tanam anggrek Anda di dalam pot</b>. Pindahkan anggrek dari pot tanam awalnya, pastikan untuk memotong akar yang mati atau membusuk. Bagi akar anggrek menjadi beberapa bagian jika perlu, sebelum
+        memasukkannya ke dalam pot. Bagian pertumbuhan yang paling matang harus diposisikan di dinding pot. Ringan tambahkan campuran pot, nyaris tidak menutupi sistem akar.</string>
+    <string name="card2_menu_content15"><b>7. Ketahui kapan untuk menanam ulang anggrek Anda</b>. Bermacam anggrek akan tumbuh lebih baik jika dipindahkan ke pot baru:</string>
+    <string name="card2_menu_content16">• Sekali setahun: Dendrobium, Miltonia, Paphiopedilum dan Phalaenopsis (dan anggrek hibrid)\n\n• Dua kali setahun: Cattleya, Dendrobium, Oncidium, Odontoglossum (dan anggrek hibrid)\n\n• Sekali dalam
+        tiga tahun: Vanda, Cymbidium</string>
+    <string name="card2_menu_title2">Metode 2 : Rawat Anggrek Anda</string>
+    <string name="card2_menu_content17"><b>1. Ciptakan suhu yang tepat untuk anggrek Anda</b>. Kebanyakan anggrek berasal dari daerah beriklim tropis, yang berarti udara yang baik, banyak cahaya, dan 12 jam siang (365 hari dalam setahun). Suhu
+        (bergantung pada spesies anggrek) berkisar antara 18.3 hingga 23.8 derajat Celsius.</string>
+    <string name="card2_menu_content18">• Pastikan bahwa ada perbedaan suhu sebesar 6.66 derajat C antara siang dan malam. Hal ini harus dilakukan segera setelah Anda mulai menanam.</string>
+    <string name="card2_menu_content19"><b>2. Pastikan anggrek Anda memperoleh cukup sinar matahari, namun tidak juga terlalu banyak</b>. Banyak jenis anggrek yang menyukai sinar matahari tidak langsung karena sinar matahari langsung dapat menyebabkan
+        mereka terbakar, namun tidak cukup sinar matahari juga dapat menyebabkan anggrek Anda tidak berbunga.</string>
+    <string name="card2_menu_content20">• Periksa daun anggrek Anda jika ingin mengetahui apakah anggrek telah mendapatkan cukup sinar matahari atau justru terlalu banyak. Daun anggrek seharusnya ringan, hijau dan sehat. Jika daunnya berwarna hijau tua,
+        berarti anggrek Anda kekurangan sinar matahari. Sebaliknya jika daun berwarna kuning, kemerahan atau coklat, berarti anggrek Anda kelebihan sinar matahari.\n\n• Anggrek yang membutuhkan sedikit sinar Paphiopedilum, Phalaenopsis, dan Oncidium)
+        tumbuh dengan baik jika memperoleh sinar matahari dari utara atau timur. Anggrek yang membutuhkan sinar matahari dalam jumlah sedang hingga banyak (Cattleya, Dendrobium, dan Vanda) lebih suka tumbuh di bawah sinar matahari dari arah barat atau
+        selatan.\n\n• Anggrek suka tumbuh di balik tirai atau penutup jendela. Karena dengan cara ini, mereka bisa mendapatkan banyak sinar matahari secara tidak langsung, seperti yang mereka sukai.</string>
+    <string name="card2_menu_content21"><b>3. Siram anggrek Anda sekali setiap 5 hingga 12 har</b>. Akan lebih mudah untuk membunuh anggrek dengan menyiraminya terlalu banyak air dibandingkan dengan terlalu jarang memberinya air. Selama musim kemarau,
+        cuaca yang lebih panas mungkin membuat anggrek Anda membutuhkan air lebih sering.</string>
+    <string name="card2_menu_content22">• Jaga genus anggrek berikut ini agar tetap lembab (walaupun tidak basah) di setiap waktu: Paphiopedilum, Miltonia, Cymbidium, dan Odontoglossum.\n\n• Jaga genus berikut tetap lembab selama pertumbuhan aktif, namun
+        selain itu biarkan merka kering di antara waktu pemberian air: Cattleya, Oncidium, Brassia, dan Dendrobium.\n\n• Biarkan genus berikut kering di antara waktu pemberian air: Phalaenopsis, Vanda, dan Ascocenda.</string>
+    <string name="card2_menu_content23"><b>4. Rawat anggrek Anda dengan rajin</b>. Anggrek memerlukan perhatian yang lebih banyak dibandingkan dengan tanaman atau jenis bunga lainnya. Semakin tebal daun anggrek Anda, kemungkinan anggrek Anda memerlukan
+        lebih banyak air/ Namun jika tanaman Anda memiliki gelembung lebar, lebih sedikit air lebih baik. Anggrek tidak tahan terhadap beberapa hal, namun tahan jika masalahnya adalah asupan air. Dan lagi, anggrek dapat mengatasi masalah kekurangan air
+        dengan lebih baik dibandingkan dengan kelebihan air.</string>
+    <string name="card2_menu_content24"><b>5. Jangan berikan pupuk berlebihan kepada anggrek Anda</b>. Secara umum, berikan pupuk sekali sebulan, tidak lebih sering lagi. Jika Anda memberikan pupuk terallau sering maka akar anggrek bisa terbakar dan
+        pertumbuhan bunganya bisa terganggu.</string>
+    <string name="card2_menu_content25"><b>6. Jaga agar lingkungan pertumbuhannya tetap lembab</b>. Karena anggrek memiliki kemampuan untuk menyerap lembab, sehingga jaga ruangan pertumbuhan anggrek Anda agar memiliki kelembaban sekitar 60% - 80% setiap
+        waktu.</string>
+    <string name="card2_menu_content26"><b>7. Pahamilah bahwa setiap anggrek berbeda-beda</b>. Setiap jenis anggrek memiliki kebutuhan perawatan dan aturan yang berbeda. Tidak ada satu jenis anggrekpun yang sama; semua memerlukan suhu, pencahayaan, dan
+        jadwal pemberian air yang berbeda. Sehingga saat Anda memilih suatu jenis anggrek untuk ditanam, Anda harus fleksibel.</string>
+    <string name="card2_menu_content27">• Tanaman anggrek bisa membutuhkan waktu yang lama untuk tumbuh. Anda tidak akan melihat tanda-tanda bahwa tanaman Anda tumbuh selama beberapa bulan, akar jauh setelahnya, dan bunga pertama akan jarang tumbuh sampai
+        8 tahun setelahnya. Jadi kesabaran adalah hal yang paling penting. Namun begitu, tenanglah dan rawat anggrek Anda, hal ini akan terbukti bermanfaat setelah bunga anggrek Anda mekar.</string>
+
+    <string name="card3_menu">m3</string>
+    <string name="card3_menu_title">Cara Menyiram Anggrek</string>
+    <string name="card3_menu_content1">Anggrek menjadi terkenal sebagai tanaman rumah, dan banyak varietas anggrek yang indah bisa didapatkan di kebun bibit dan toko perlengkapan taman. Di alam liar, anggrek sering tumbuh pada pohon, dan akarnya terpapar
+        matahari dan udara juga air. Anggrek yang dipelihara dalam pot memerlukan teknik menyiram khusus yang meniru lingkungan alaminya. Siram anggrek seperlunya, hanya ketika media tanam dalam pot hampir kering.</string>
+    <string name="card3_menu_title1">Bagian 1 : Memutuskan Waktu Menyiram</string>
+    <string name="card3_menu_content2"><b>1. Siram seperlunya</b>. Tidak ada jenis anggrek yang perlu disiram tiap hari. Biasanya, menyiram terlalu banyak bisa menyebabkan akar anggrek busuk dan akhirnya mati.[1] Tidak seperti kebanyakan tanaman rumah, anggrek harus
+        disiram hanya ketika akan mulai kekeringan. Siram hanya ketika tanaman hampir kering untuk meniru lingkungan alami anggrek.</string>
+    <string name="card3_menu_content3">• Beberapa anggrek memiliki organ yang menyimpan air, dan ada yang tidak. Bila Anda memelihara jenis anggrek yang tidak memiliki organ yang menyimpan air, seperti phalaenopsis atau paphiopedilums, Anda harus menyiram anggrek sebelum
+        kering sama sekali.\n\n• Bila Anda tidak yakin jenis anggrek apa yang Anda miliki, siram anggrek ketika hampir kering, tetapi sisakan sedikit kelembapannya.</string>
+    <string name="card3_menu_content4"><b>2. Pertimbangkan iklim setempat</b>. Frekuensi menyiram dipengaruhi kelembapan udara tempat Anda tinggal, sinar matahari yang diterima anggrek, dan suhu udara. Karena faktor-faktor tersebut beragam sesuai daerah dan rumah, tidak ada peraturan
+        tentang frekuensi menyiram anggrek. Anda harus membangun rutinitas disesuaikan lingkungan khusus tempat tinggal Anda.</string>
+    <string name="card3_menu_content5">• Bila suhu rumah sejuk, anggrek perlu disiram lebih jarang dibanding di saat suhunya hangat.\n\n• Bila anggrek diletakkan di jendela yang terkena sinar matahari, perlu disiram lebih sering dibanding ketika diletakkan di tempat yang lebih teduh.</string>
+    <string name="card3_menu_content6"><b>3. Periksa apakah media tanam terlihat kering</b>. Ini adalah indikasi pertama untuk mengetahui waktunya menyiram anggrek. Media tanam anggrek biasanya terdiri kulit kayu atau gambut, dan bila terlihat kering dan berdebu, berarti sudah saatnya menyiram
+        anggrek. Namun, melihat media tanam saja tidak menjadi indikasi yang cukup akurat untuk mengetahui sekarang sudah waktunya menyiram.</string>
+    <string name="card3_menu_content7"><b>4. Angkat pot untuk memeriksa beratnya</b>. Pot akan terasa lebih ringan ketika sudah waktunya menyiram anggrek. Bila berat, berarti masih ada air dalam pot. Seiring waktu Anda akan bisa membedakan seberapa berat pot saat perlu disiram dibanding saat pot
+        masih ada air di dalamnya.</string>
+    <string name="card3_menu_content8">• Pot yang mengandung air juga akan terlihat berbeda. Bila anggrek ditanam dalam pot tanam lempung, pot akan terlihat lebih gelap saat basah. Bila pot berwarna terang, berarti waktunya menyiram.</string>
+    <string name="card3_menu_content9"><b>5. Lakukan pengujian dengan jari</b>. Ini adalah cara terbaik untuk menentukan apakah anggrek perlu air. Tusukkan jari kelingking ke dalam media tanam, hati-hati jangan sampai merusak akar anggrek. Bila Anda tidak merasakan kelembapan, atau bila Anda
+        merasakan tapi sedikit sekali, sekarang waktunya menyiram anggrek. Bila Anda merasakan langsung kelembapan, jangan disiram dulu. Bila Anda ragu, Anda harus menunggu satu hari lagi untuk menyiram.</string>
+    <string name="card3_menu_title2">Bagian 2 : Menyiram dengan Benar</string>
+    <string name="card3_menu_content10"><b>1. Pastikan pot memiliki lubang drainase</b>. Anda tidak bisa menyiram anggrek dengan tepat bila tidak ada lubang drainase, karena air perlu mengalir keluar melalui lubang tersebut. Air yang tergenang dalam pot akan menyebabkan akar membusuk, jadi air perlu
+        mengalir ke dasar. Bila Anda membeli anggrek yang dikemas dalam pot hias tanpa lubang, pindahkan anggrek ke dalam pot yang lubangnya cukup di dasar. Lebih baik gunakan media tanam anggrek dibanding tanah pot biasa.</string>
+    <string name="card3_menu_content11">• Gunakan metode es batu bila Anda tidak ingin memindahkan anggrek ke pot lain. Bila Anda hanya ingin cepat menyiram anggrek tanpa harus memindahkan ke pot lain, Anda bisa menggunakan metode es batu yang terkenal. Letakkan es setara dengan ¼ cangkir air
+        (biasanya sekitar tiga kubus es batu berukuran sedang) di atas media pot. Biarkan es batu meleleh ke dalam pot. Tunggu sekitar seminggu sebelum diulangi. Metode ini tidak optimal untuk kesehatan anggrek jangka panjang, tapi cocok bila Anda tidak ingin memindahkan pot.</string>
+    <string name="card3_menu_content12"><b>2. Siram anggrek dengan air mengalir</b>. Cara termudah untuk menyiram anggrek adalah meletakkan anggrek di bawah keran dan nyalakan air suhu ruangan. Bila Anda memiliki instalasi yang bisa membagi aliran air, ini lebih baik dibanding satu aliran yang kencang
+        untuk anggrek. Siram anggrek seperti ini selama satu menit, ini memungkinkan air meresap melalui pot dan keluar lagi di lubang di dasar pot.</string>
+    <string name="card3_menu_content13">• Jangan gunakan air yang sudah dikurangi kandungan mineralnya atau diproses dengan bahan kimia yang keras. Bila Anda memiliki jenis anggrek khusus, pelajari bila Anda bisa menggunakan air suling atau air hujan.\n\n• Air harus dialirkan dengan kencang ke
+        dalam pot. Bila air terasa terjebak dalam pot, media tanam yang Anda gunakan mungkin terlalu padat.\n\n• Setelah menyiram anggrek, periksa berat pot untuk mengetahui perbedaan berat pot saat lebih ringan dan anggrek siap disiram lagi.</string>
+    <string name="card3_menu_content14"><b>3. Siram pagi atau sore hari</b>. Dengan begitu kelebihan air akan bisa menguap sebelum malam tiba. Bila air menggenangi tanaman semalaman, bisa menyebabkan tanaman membusuk atau tanaman rentan terhadap penyakit.</string>
+    <string name="card3_menu_content15">• Bila Anda melihat kelebihan air menggenang di daun, basuh dengan tisu tebal.\n\n• Beberapa menit setelah menyiram, periksa piring alas pot dan kosongkan agar tidak ada air tergenang dekat anggrek.</string>
+    <string name="card3_menu_content16">• Ketika anggrek berkembang atau tumbuh banyak daun dan akar, bisa disiram dengan lebih banyak air.\n\n• Ketika anggrek beristirahat pertumbuhannya di antara waktu berbunga, siram dengan air lebih sedikit. Ini biasanya terjadi di akhir musim gugur dan di awal
+        hingga pertengahan musim dingin, tergantung jenis anggrek.\n\n• Media anggrek yang kasar dan berpori-pori memungkinkan aliran udara ke akar anggrek bagus tapi masih bisa menahan air. Cara termudah untuk mendapatkan media anggrek yang baik adalah dengan membeli campuran media tanam dari
+        kebun bibit yang baik.\n\n• Tanaman yang lebih besar memerlukan lebih banyak air dibanding tanaman yang lebih kecil di dalam pot yang berukuran sama.\n\n• Suhu sejuk dan sinar matahari sedikit akan menyebabkan anggrek perlu air lebih sedikit.\n\n• Dalam kondisi sangat lembap anggrek
+        memerlukan air lebih sedikit. Dalam kondisi sangat kering memerlukan air lebih banyak. Tingkat kelembapan yang ideal adalah 50 hingga 60%.\n\n• Rawat dengan hati-hati.</string>
+    <string name="card3_menu_content17">• Bila Anda menggunakan pupuk yang larut dalam air, garam mungkin menumpuk dalam media dalam pot dan seiring waktu merusak anggrek. Jangan gunakan pupuk tiap menyiram.\n\n• Anggrek yang daunnya terlihat layu atau lemah
+        bisa jadi mendapatkan terlalu banyak air yang menyebabkan akar busuk dan air tidak mencapai daun atau karena terlalu kering. Periksa media tanam sebelum menyiram.\n\n• Anggrek akan mati dengan cepat bila ditanam dalam pot yang direndam dalam
+        air.\n\n• Bila Anda menuang air pada bunga anggrek yang terpapar sinar matahari langsung, bercak-bercak coklat karena terbakar akan tampak pada kelopak bunga. Ini tidak akan melukai anggrek, tapi merusak penampilannya.</string>
+
+    <string name="card4_menu">m4</string>
+    <string name="card4_menu_title">Cara Mengganti Pot Anggrek</string>
+    <string name="card4_menu_content1">Ada sesuatu dari anggrek yang membuat kita tersihir, bukan? Tanaman eksotik ini memiliki batang yang elok dan kelopak bunga yang sangat menawan untuk habitat hutan alami. Anggrek bisa ditanam di lingkungan hunian hanya dengan sedikit
+        pemeliharaan. Pengepotan ulang anggrek dilakukan untuk mencegah akarnya menjadi penuh sesak, sehingga anggrek akan terus memproduksi bunga yang indah selama bertahun-tahun ke depan. Lihatlah Langkah 1 untuk mempelajari cara menentukan kapan anggrek siap diganti
+        potnya dan cara memindahkannya pada pot baru tanpa merusak akarnya.</string>
+    <string name="card4_menu_title1">Bagian 1 : Mengenali Anggrek yang Anda Tanam</string>
+    <string name="card4_menu_content2"><b>1. Tentukan waktu yang tepat untuk mengganti pot</b>. Waktu yang ideal bagi anggrek untuk dipindahkan ke pot baru adalah setelah tanaman tersebut selesai berbunga, ketika memulai pertumbuhan baru. Walaupun demikian,
+        Anda tidak perlu mengganti pot anggrek setiap saat; cukup lakukan pengepotan ulang tidak lebih dari 18-24 bulan. Jika Anda tidak yakin kapan terakhir kali anggrek tersebut diganti potnya, namun tanaman tersebut terlihat tumbuh hingga keluar dari pot,
+        mungkin Anda sudah terlambat melakukan pengepotan ulang. Perhatikan anggrek Anda untuk mengetahui tanda-tanda berikut yang menunjukkan tanaman siap dipindah ke pot baru:</string>
+    <string name="card4_menu_content3">• Beberapa bagian akar tumbuh melewati pot. Jika Anda melihat banyak akar—tidak hanya satu atau dua—menggantung keluar dari pot, anggrek tersebut memerlukan ruang lebih, dan inilah saatnya memindahkan anggrek ke wadah
+        yang lebih besar.\n\n• Beberapa akarnya membusuk. Jika akar-akar anggrek terlihat lembek, dan material dalam pot tidak lagi memiliki drainase bagus, Anda sudah perlu melakukan pengepotan ulang.\n\n• Tanaman tumbuh di tepi pot. Jika sebagian besar
+        tanaman bersandar melebihi tepi pot, itu tandanya anggrek memerlukan lebih banyak ruang.</string>
+    <string name="card4_menu_content4"><b>2. Jangan melakukan pengepotan ulang kecuali Anda benar-benar perlu melakukannya</b>. Terlalu bersemangat melakukan pengepotan ulang dapat mengganggu siklus pertumbuhan tanaman. Anggrek seharusnya hanya perlu dipot ulang
+        jika menunjukkan tanda-tanda seperti disebut di atas. Jika tanaman anggrek terlihat sehat dan tumbuh baik dalam wadahnya, pengepotan ulang bisa ditunda untuk tahun yang akan datang. Akan lebih baik jika anggrek sedikit terlihat sesak daripada dilakukan
+        pengepotan ulang terlalu cepat.</string>
+    <string name="card4_menu_content5"><b>3. Ketahui material media tanam pot yang Anda butuhkan</b>. Saat Anda telah mengetahui waktu yang tepat untuk pengepotan ulang, sangat penting mengetahui jenis material media tanam yang tepat yang akan digunakan.
+        Banyak jenis anggrek yang dijadikan tanaman rumah adalah tanaman epifit (tanaman yang menumpang pada tanaman lain tetapi bukan parasit) lebih daripada tanaman terestrial (tanaman yang tumbuh di tanah). Jenis anggrek epifit cenderung akan mati jika
+        Anda menanamnya dalam pot dengan tanah/media tanam biasa.</string>
+    <string name="card4_menu_content6">• Kombinasikan kulit kayu cemara (fir bak), sphagnum moss (sejenis lumut), arang kayu, dan sabut kelapa, merupakan media tanam yang sesuai untuk berbagai jenis anggrek. Sebagian besar anggrek yang umum akan tumbuh baik dalam
+        kombinasi berikut:</string>
+    <string name="card4_menu_content7">• 4 bagian fir bark atau sabut kelapa\n\n• 1 bagian arang kayu berukuran sedang\n\n• 1 bagian perlite</string>
+    <string name="card4_menu_content8">• Jika Anda tidak yakin mengenai jenis anggrek yang Anda miliki maka paket campuran media tanam anggrek cukup aman digunakan untuk sebagian besar jenis anggrek epifit. Paket tersebut biasanya tersedia di berbagai pusat
+        pembibitan tanaman atau pusat penjualan peralatan rumah tangga dan kebun.\n\n• Jika Anda memiliki anggrek jenis terestrial, Anda akan memerlukan tanah yang rapuh yang mampu menyimpan air dengan baik. Tanah tersebut harus memiliki kandungan perlite dan
+        material kayu yang tinggi. Konsultasikan pada ahli di pusat pembibitan tanaman mengenai campuran media tanam yang tepat untuk jenis anggrek yang Anda miliki.</string>
+    <string name="card4_menu_content9"><b>4. Tentukan ukuran pot yang akan digunakan</b>. Ketika melakukan pengepotan ulang pada anggrek, Anda akan memerlukan pot yang berukuran sekitar 2,54 cm lebih besar atau bahkan jauh lebih besar dari pot sebelumnya.
+        Anda perlu menyediakan ruang lebih besar, tetapi tidak perlu terlalu besar. Jika pot terlalu besar anggrek akan cenderung berkonsentrasi pada pertumbuhan akar. Akibatnya, Anda tidak akan melihat anggrek berbunga hingga waktu yang lama. Carilah pot
+        yang terbuat dari plastik, tanah liat/tembikar, kaca atau keramik yang sesuai dengan ukuran anggrek.</string>
+    <string name="card4_menu_content10">• Pastikan pot yang baru memiliki lubang drainase. Jika pot tidak memiliki drainase yang baik, akar anggrek akan membusuk.\n\n• Beberapa spesies anggrek memiliki akar yang dapat melakukan fotosintesis. Jika Anda
+        memiliki Phalaenopsis (jenis anggrek epifit), pertimbangkan untuk menggunakan pot dari bahan kaca atau plastik transparan agar cahaya matahari dapat menembus ke dalamnya.\n\n• Jika Anda harus memilih pot yang bagian sisinya lebar, mungkin Anda
+        perlu menambahkan potongan-potongan terakota pada bagian dasar pot. Cara demikian akan membantu media tanam berada dalam posisi di tengah pot, di mana bagian itu cenderung tetap basah dan memiliki drainase lebih efektif.</string>
+    <string name="card4_menu_title2">Bagian 2 : Mempersiapkan Material yang Diperlukan</string>
+    <string name="card4_menu_content11"><b>1. Takar jumlah media tanam yang Anda perlukan dalam ember atau baskom besar</b>. Isilah pot baru dengan campuran media tanam, kemudian masukkan ke dalam wadah sebanyak dua kalinya. Untuk menyiapkan media tanam pot,
+        Anda perlu merendamnya dalam air selama semalam. Cara ini akan membantu mempertahankan kelembapan untuk kebutuhan anggrek.</string>
+    <string name="card4_menu_content12"><b>2. Siram campuran media tanam dengan air panas</b>. Lanjutkan mengisi ember atau baskom dengan air panas hingga bagian atas. Jangan gunakan air dingin, karena material tersebut tidak akan menyerapnya dengan baik.
+        Pastikan tanah berada pada suhu kamar sebelum pengepotan ulang dilakukan.</string>
+    <string name="card4_menu_content13"><b>3. Saring campuran media tanam</b>. Anda dapat mengunakan saringan yang biasa digunakan untuk makanan (cuci sampai bersih sesudahnya) atau sepotong besar kain katun tipis. Tiriskan airnya sehingga yang tertinggal hanyalah
+        campuran media tanam yang basah.Alirkan lebih banyak air hangat di atas campuran untuk membilas kotoran yang ada.</string>
+    <string name="card4_menu_content14"><b>4. Ambil tanaman anggrek dari pot lama</b>. Berhati-hatilah mengangkat anggrek dari pot lama, longgarkan akarnya satu per satu. Jika akar tanaman tertahan pada pot, gunakan gunting atau pisau yang steril untuk
+        melepaskannya. Anda perlu menggunakan peralatan yang bersih, sebab anggrek cenderung sangat mudah terkena penyakit.</string>
+    <string name="card4_menu_content15">• Anda perlu mensterilkan alat pangkas (gunting, pisau, dll.) dengan api dari korek gas atau mengusapnya dengan kain/lap yang telah dibubuhi alkohol.</string>
+    <string name="card4_menu_content16"><b>5. Buanglah campuran media tanam lama dan akar-akar yang mati</b>. Gunakan jari Anda dan gunting yang bersih untuk membersihkan akar anggrek dengan hati-hati. Keluarkan dan buang semua campuran yang sudah mati—arang, potongan-potongan
+        kayu, lumut, dsb. Gunakan gunting untuk mengambil akar yang sudah busuk, hati-hati jangan sampai merusak bagian tanaman yang masih sehat.</string>
+    <string name="card4_menu_content17">• Akar-akar yang lembut dan lemas kemungkinan besar sudah mati, jadi sebaiknya dibuang.\n\n• Uraikan akar-akarnya secara hati-hati dengan cara melepaskannya menggunakan jari-jari Anda.</string>
+    <string name="card4_menu_content18"><b>6. Siapkan pot baru yang akan digunakan</b>. Jika Anda akan menggunakan pot yang sebelumnya sudah pernah digunakan, bersihkan dan sterilkan dengan air mendidih untuk menyingkirkan toksin dan membunuh bibit penyakit yang potensial.
+        Jika pot tersebut besar dan dalam maka untuk membantu sistem drainase, Anda bisa membentengi dengan terakota atau packing/foam peanut—bahan pengisi bagian-bagian yang longgar pada kemasan yang digunakan untuk mencegah kerusakan benda rapuh saat dalam pengiriman,
+        terbuat dari styrofoam/polystyrene, bioplastik, dll. Jika Anda menggunakan pot yang dangkal, langkah tersebut tidak diperlukan.</string>
+    <string name="card4_menu_title3">Bagian 3 : Mengganti Pot Anggrek</string>
+    <string name="card4_menu_content19"><b>1. Tempatkan anggrek ke dalam pot</b>. Bagian yang tumbuh terdahulu diletakkan pada bagian dasar pot, sementara tanaman yang baru tumbuh diletakkan pada bagian sisi sehingga akan memiliki ruang yang cukup untuk menyebar. Bagian teratas massa
+        akar harus berada pada tingkat yang sama dengan pot sebelumnya. Artinya, tunas baru semestinya berada di atas permukaan pot, dengan sebagian besar akarnya berada di bawahnya.</string>
+    <string name="card4_menu_content20"><b>2. Tekan campuran media tanam ke dalam pot</b>. Tuangkan sebagian ke dalam di sekitar akar lalu goncangkan pot dan ketuk-ketuk bagian sampingnya agar media tanam dengan mudah masuk ke sekitar lingkaran akar. Jika Anda mengerjakannya dengan tangan,
+        tekan lembut supaya akarnya tidak rusak. Pastikan tidak ada kantong-kantong udara yang besar. Jika ada bagian akar yang tidak tertutup maka akar tersebut tidak dapat tumbuh dengan baik.</string>
+    <string name="card4_menu_content21">• Tuangkan campuran media tanam sedikit demi sedikit. Gunakan tangan Anda untuk menata akarnya, kemudian tuang lebih banyak campuran media tanam ke dalam pot.\n\n• Lanjutkan menekan campuran sampai rata dengan bagian atas pot.</string>
+    <string name="card4_menu_content22"><b>3. Pastikan tanaman dapat berdiri dalam posisi tegak lurus bila pekerjaan Anda sudah selesai</b>. Beri penyangga atau jepitlah tanaman ke bagian samping pot sehingga tidak jatuh terkulai atau tumbuh tidak pada arah yang tepat.</string>
+    <string name="card4_menu_content23"><b>4. Lanjutkan memelihara anggrek Anda seperti sebelumnya</b>. Letakkan pot anggrek pada area yang sejuk dengan pembayangan parsial. Siram secukupnya sesuai dengan kebutuhan tanaman.</string>
+    <string name="card4_menu_content24">• Siapkan area kerja Anda dengan cara menutupi lantai, meja, atau permukaan lain menggunakan koran bekas atau plastik.\n\n• Jika anggrek yang Anda miliki terlalu sulit untuk dipindahkan dari pot lama, hancurkan pot untuk memecahkannya
+        secara lebih efektif.</string>
+    <string name="card4_menu_content25">• Pastikan untuk selalu memilih pot yang memiliki lubang drainase pada bagian bawahnya. Jika air dibiarkan tinggal dan menggenang maka kemungkinan akar anggrek akan membusuk.\n\n• Jangan mengganti media tanam pot anggrek secara
+        mendadak. Jika Anda yakin bahwa media tanam yang berbeda mungkin akan lebih menguntungkan bagi tanaman, lakukan riset lebih dahulu dan tunggulah waktu yang tepat untuk melakukan penggantian pot.</string>
+    <string name="card4_menu_content26">• Pot\n\n• Campuran media tanam pot\n\n• Air\n\n• Pisau\n\n• Alat pangkas\n\n• Foam/packing peanuts atau potongan terakota\n\n• Penjepit dan penyangga tanaman</string>
+
+    <string name="card5_menu">m5</string>
+    <string name="card5_menu_title">Video seputar Anggrek</string>
+
+    <string name="card6_menu">m6</string>
+    <string name="card6_menu_title">Quiz &amp; Pembelajaran</string>
+    <string name="btn_start_quiz">Mulai Quiz</string>
+    <string name="btn_next_quiz">Lanjut</string>
+    <string name="btn_submit_quiz">Selesai</string>
+    <string name="title_quiz_activity">Quiz Orchidpedia</string>
+    <string name="title_quiz_activity2">Quiz :</string>
+    <string name="quiz_question_info">Pertanyaan Quiz nomor</string>
+    <string name="result_quiz_activity">Hasil Quiz</string>
+    <string name="warn_quiz_noanswer">Mohon pilih jawaban sebelum lanjut ke soal berikutnya…</string>
+    <string name="quiz_startpage_title">Selamat Datang,\ndi Quiz Orchidpedia!</string>
+    <string name="quiz_startpage_description">Disini Anda dapat berlatih dan mengevaluasi materi tentang Anggrek yang telah Anda pelajari di Aplikasi Orchidpedia.\n\nUntuk memulai Quiz, tekan tombol\n<b>Mulai Quiz</b>.</string>
+    <string name="quiz_record_title">Riwayat Skor Quiz</string>
+    <string name="quiz_norecord">Belum ada riwayat skor terkini. Coba Quiz sekarang untuk mencetak skor tertinggimu!</string>
+    <string name="quiz_exit_warning_title">Konfirmasi keluar Quiz?</string>
+    <string name="quiz_exit_warning_description">Anda tidak dapat melanjutkan Quiz jika telah keluar.</string>
+    <string name="btn_exit_quiz">Keluar Quiz</string>
+    <string name="btn_decline_exit_quiz">Batalkan</string>
+    <string name="quiz_result_title">Selamat,\nAnda telah menyelesaikan Quiz!</string>
+    <string name="quiz_result_description">Skor Anda:</string>
+    <string name="btn_restart_quiz">Mulai ulang Quiz</string>
+    <string name="btn_finish_quiz">Tutup Quiz</string>
+    <string name="quiz_highestscore_badge">Skor Tertinggi</string>
+    <string name="quiz_newrecord_badge">Rekor Terbaru</string>
+    <string name="num1">1. </string>
+    <string name="num2">2. </string>
+    <string name="num3">3. </string>
+    <string name="quiz_score_hint">Skormu sudah bagus!, tingkatkan lagi dengan belajar materi dan mengulang Quiz.</string>
+
+
+    <!--Question Resources-->
+    <string name="quest1">Varietas dibawah ini harus tetap dijaga lembab secara merata setiap saat, <b>kecuali</b>…</string>
+    <string name="quest1_op1">Paphiopedilum</string>
+    <string name="quest1_op2">Dendrobium</string>
+    <string name="quest1_op3">Miltonia</string>
+    <string name="quest1_op4">Cymbidium</string>
+    <string name="quest1_answer">2</string>
+    <string name="quest1_img">false</string>
+
+    <string name="quest2">Varietas dibawah ini yang harus tetap dijaga lembab secara merata setiap saat hanya ketika masa
+        pertumbuhan aktif, tetapi biarkan tetap kering jika tidak dalam masa pertumbuhan aktif adalah…</string>
+    <string name="quest2_op1">Paphiopedilum</string>
+    <string name="quest2_op2">Miltonia</string>
+    <string name="quest2_op3">Dontoglossum</string>
+    <string name="quest2_op4">Cattleya</string>
+    <string name="quest2_answer">4</string>
+    <string name="quest2_img">false</string>
+
+    <string name="quest3">Varietas ini harus dijaga sedikit kering diantara masa penyiraman, <b>kecuali</b>…</string>
+    <string name="quest3_op1">Brassia</string>
+    <string name="quest3_op2">Phalaenopsis</string>
+    <string name="quest3_op3">Vanda</string>
+    <string name="quest3_op4">Ascocenda</string>
+    <string name="quest3_answer">1</string>
+    <string name="quest3_img">false</string>
+
+    <string name="quest4">Apa itu Anggrek Epifit?</string>
+    <string name="quest4_op1">Varietas Anggrek yang hanya membutuhkan sedikit air</string>
+    <string name="quest4_op2">Varietas Anggrek yang tumbuh dari cabang</string>
+    <string name="quest4_op3">Varietas Anggrek yang langka</string>
+    <string name="quest4_op4">Varietas Anggrek yang tumbuh di dalam tanah</string>
+    <string name="quest4_answer">2</string>
+    <string name="quest4_img">false</string>
+
+    <string name="quest5">Mengapa kita harus menambahkan pupuk nitrogen yang lebih tinggi secara signifikan
+        jika menanam anggrek pada kulit kayu?</string>
+    <string name="quest5_op1">Agar akar anggrek tetap sehat</string>
+    <string name="quest5_op2">Supaya anggrek dapat berbunga lebih cepat</string>
+    <string name="quest5_op3">Karena bakteri di kulit kayu yang membusuk akan mengkonsumsi banyak nitrogen</string>
+    <string name="quest5_op4">Karena berbeda cara penanaman anggrek, berbeda pula kebutuhan pupuknya</string>
+    <string name="quest5_answer">3</string>
+    <string name="quest5_img">false</string>
+
+    <string name="quest6">Apa itu Anggrek Terestrial?</string>
+    <string name="quest6_op1">Varietas Anggrek yang hanya membutuhkan sedikit air</string>
+    <string name="quest6_op2">Varietas Anggrek yang tumbuh dari cabang</string>
+    <string name="quest6_op3">Varietas Anggrek yang langka</string>
+    <string name="quest6_op4">Varietas Anggrek yang tumbuh di dalam tanah</string>
+    <string name="quest6_answer">4</string>
+    <string name="quest6_img">false</string>
+
+    <string name="quest7">Mengapa Anggrek Epifit cenderung memiliki akar berdaging tebal?</string>
+    <string name="quest7_op1">Untuk melekatkan diri pada pohon atau kulit kayu &amp; untuk menyerap air dan nutrisi</string>
+    <string name="quest7_op2">Agar akar anggrek tidak dimakan oleh bakteri atau hewan lain</string>
+    <string name="quest7_op3">Untuk menembus kerasnya lapisan tanah</string>
+    <string name="quest7_op4">Untuk melindungi diri dari serangan predator</string>
+    <string name="quest7_answer">1</string>
+    <string name="quest7_img">false</string>
+
+    <string name="quest8">Apa nama ilmiah dari anggrek diatas?</string>
+    <string name="quest8_op1">Dendrobium</string>
+    <string name="quest8_op2">Cattleya</string>
+    <string name="quest8_op3">Cymbidium</string>
+    <string name="quest8_op4">Phalaenopsis</string>
+    <string name="quest8_answer">4</string>
+    <string name="quest8_img">true</string>
+
+    <string name="quest9">Apa nama ilmiah dari anggrek diatas?</string>
+    <string name="quest9_op1">Vanda</string>
+    <string name="quest9_op2">Cymbidium</string>
+    <string name="quest9_op3">Cattleya</string>
+    <string name="quest9_op4">Dendrobium</string>
+    <string name="quest9_answer">2</string>
+    <string name="quest9_img">true</string>
+
+    <string name="quest10">Apa nama ilmiah dari anggrek diatas?</string>
+    <string name="quest10_op1">Paphiopedilum</string>
+    <string name="quest10_op2">Dendrobium</string>
+    <string name="quest10_op3">Oncidium</string>
+    <string name="quest10_op4">Vanda</string>
+    <string name="quest10_answer">3</string>
+    <string name="quest10_img">true</string>
+
+    <string name="quest11">Quesion Eleven</string>
+    <string name="quest12">Quesion Twelve</string>
+    <string name="quest13">Quesion Thirteen</string>
+    <string name="quest14">Quesion Fourteen</string>
+    <string name="quest15">Quesion Fifteen</string>
+    <string name="quest16">Quesion Sixteen</string>
+    <string name="quest17">Quesion Seventeen</string>
+    <string name="quest18">Quesion Eighteen</string>
+    <string name="quest19">Quesion Nineteen</string>
+    <string name="quest20">Quesion Twenty</string>
+
+
+    <!--Menu Resources-->
+    <string name="menu_tips">Tips</string>
+    <string name="menu_warning">Peringatan</string>
+    <string name="menu_equipment">Hal yang Anda Butuhkan</string>
+    <string name="menu_reference1">Referensi: wikiHow</string>
+
+
+    <!--Ensiklopedia Card ID & Data-->
+    <string name="card1_ensiklopedia">e1</string>
+    <string name="card1_ens_title">Phalaenopsis</string>
+    <string name="card1_ens_header1">Phalaenopsis</string>
+    <string name="card1_ens_header2">Aeridinae</string>
+    <string name="card1_ens_header3">Asparagales</string>
+    <string name="card1_ens_header4">Genus</string>
+    <string name="card1_ens_founder">Carl Ludwig Blume (1825)</string>
+    <string name="card1_ens_description" tools:ignore="Typos">Phalaenopsis, yang dikenal sebagai anggrek ngengat, disingkat Phal dalam perdagangan hortikultura,
+        adalah genus anggrek yang terdiri dari sekitar 60 spesies. Phalaenopsis adalah salah satu anggrek paling populer dalam perdagangan,
+        melalui pengembangan hibrida buatan banyak. Ini berasal dari Cina selatan, Taiwan, benua India, Asia Tenggara (Thailand, Filipina,
+        Malaysia, Indonesia, dll.), New Guinea, Kepulauan Bismarck, dan Queensland.</string>
+
+    <string name="card2_ensiklopedia">e2</string>
+    <string name="card2_ens_title">Dendrobium</string>
+    <string name="card2_ens_header1">Dendrobium</string>
+    <string name="card2_ens_header2">Dendrobiinae</string>
+    <string name="card2_ens_header3">Asparagales</string>
+    <string name="card2_ens_header4">Genus</string>
+    <string name="card2_ens_founder">Olof Swartz</string>
+    <string name="card2_ens_description" tools:ignore="Typos">Dendrobium adalah salah satu marga anggrek epifit yang biasa digunakan sebagai tanaman hias ruang atau taman. Bunganya sangat bervariasi dan indah. Dendrobium relatif mudah dipelihara dan berbunga.\n\nPola pertumbuhan anggrek Dendrobium bertipe simpodial, artinya memiliki pertumbuhan ujung batang terbatas.
+        Batang ini tumbuh terus dan akan berhenti setelah mencapai batas maksimum. Pertumbuhan ini akan dilanjutkan oleh anakan baru yang tumbuh di sampingnya. Pada anggrek simpodial ini terdapat penghubung yang disebut rhizoma atau batang di bawah tanah. Dari rhizoma ini akan keluar tunas anakan baru. Di antara rhizoma dan daun ada semacam umbi yang disebut pseudobulb
+        (umbi palsu). Ukuran maupun bentuk pseudobulb bervariasi.\n\nAnggrek Dendrobium membutuhkan sinar matahari dengan sedang sampai tinggi, tergantung dari jenis Dendrobium. Apabila suhu terlalu tinggi dapat dibantu dengan pengkabutan dengan penggunaan semprotan untuk menghindari penguapan yang lebih besar.</string>
+
+    <string name="card3_ensiklopedia">e3</string>
+    <string name="card3_ens_title">Cymbidium</string>
+    <string name="card3_ens_header1">Cymbidium</string>
+    <string name="card3_ens_header2">Cymbidiinae</string>
+    <string name="card3_ens_header3">-</string>
+    <string name="card3_ens_header4">Genus</string>
+    <string name="card3_ens_founder">Olof Swartz</string>
+    <string name="card3_ens_description" tools:ignore="Typos">Cymbidium adalah sebuah genus botani yang berasal dari familia Orchidaceae. Nama genus Latin yang baru berasal dari bahasa Latin cymba yang berarti perahu. Penggunaannya yang pertama diketahui adalah pada tahun 1815.</string>
+
+    <string name="card4_ensiklopedia">e4</string>
+    <string name="card4_ens_title">Cattleya</string>
+    <string name="card4_ens_header1">Cattleya</string>
+    <string name="card4_ens_header2">Laeliinae</string>
+    <string name="card4_ens_header3">-</string>
+    <string name="card4_ens_header4">Genus</string>
+    <string name="card4_ens_founder">John Lindley</string>
+    <string name="card4_ens_description" tools:ignore="Typos">Cattleya adalah salah satu genus dari 42 spesies anggrek dari Kosta Rika sampai bagian Tropis Amerika Selatan dan merupakan salah satu marga anggrek epifit. Diberi nama Cattleya oleh John Lindley pada tahun 1824
+        setelah Sir William Cattley yang berhasil membudidayakan spesimen Cattleya Labiata yang digunakan sebagai kemasan materi dalam pengiriman anggrek lainnya. Anggrek jenis ini hidup menumpang pada pohon-pohon kayu besar, sehingga mereka terlindung dari paparan sinar
+        matahari langsung dan memperoleh kelembaban yang sangat mereka butuhkan.</string>
+
+    <string name="card5_ensiklopedia">e5</string>
+    <string name="card5_ens_title">Vanda</string>
+    <string name="card5_ens_header1">Vanda</string>
+    <string name="card5_ens_header2">Aeridinae</string>
+    <string name="card5_ens_header3">Asparagales</string>
+    <string name="card5_ens_header4">Genus</string>
+    <string name="card5_ens_founder">Ernst Hugo Heinrich Pfitzer</string>
+    <string name="card5_ens_description" tools:ignore="Typos">Vanda adalah genus pada keluarga anggrek, Orchidaceae. Ada sekitar 80 spesies, dan genus umumnya dibudidayakan untuk pasaran. Genus dan sekutu-sekutunya dianggap termasuk yang paling spesifik disesuaikan dari
+        semua anggrek di dalam Orchidaceae. Genus ini sangat berharga dalam hortikultura karena warnanya yang mencolok, harum, tahan lama, dan sangat berwarna. Spesies Vanda tersebar luas di Asia Timur, Asia Tenggara, dan New Guinea, dengan beberapa spesies menyebar ke
+        Queensland dan beberapa pulau di Pasifik barat. Genus ini kadang disingkat V. dalam perdagangan bunga.</string>
+
+    <string name="card6_ensiklopedia">e6</string>
+    <string name="card6_ens_title">Oncidium</string>
+    <string name="card6_ens_header1">Oncidium</string>
+    <string name="card6_ens_header2">Orchidaceae</string>
+    <string name="card6_ens_header3">Asparagales</string>
+    <string name="card6_ens_header4">Genus</string>
+    <string name="card6_ens_founder">Olof Swartz</string>
+    <string name="card6_ens_description" tools:ignore="Typos">Oncidium adalah genus yang terdiri dari kurang lebih 330 spesies anggrek dari sub famili Epidendroideae. Genus ini adalah genus yang kompleks dengan banyak spesies yang di klasifikasi ulang. Genus ini
+        dideskripsikan pertama kali oleh Olof Swartz. Genus ini tersebar dari wilayah Meksiko Utara, bebearapa daerah di Karibia, beberapa daerah di Florida Selatan, sampai Amerika Selatan. Anggrek ini umumnya tumbuh di daerah kering. Kebutuhan cahaya oncidium ini
+        dapat bervariasi. Pada umumnya, Oncidium tahan lebih banyak cahaya yaitu berkisar antara 20 - 60 persen cahaya.\n\nKemudian untuk suhu yang diperlukan untuk anggrek oncidium ini pada umumnya antara 55 - 60 Fahrenheit pada malam hari, 80 - 85 Fahrenheit pada siang
+        hari. Tanaman dengan akar daun atau berdaging besar kurang perlu sering disiram daripada tanaman berakar atau berdaging tipis. Penyiraman harus menyeluruh, dan menengah harus kering setidaknya setengah putaran pot sebelum penyiraman lagi. Penyiraman ini
+        dilakukan setiap 2 - 10 hari tergantung pada cuaca, ukuran pot dan bahan, jenis anggrek dan, jenis media pot.</string>
+
+    <string name="card7_ensiklopedia">e7</string>
+    <string name="card7_ens_title">Paphiopedilum</string>
+    <string name="card7_ens_header1">Paphiopedilum</string>
+    <string name="card7_ens_header2">Cypripedioideae</string>
+    <string name="card7_ens_header3">Asparagales</string>
+    <string name="card7_ens_header4">Genus</string>
+    <string name="card7_ens_founder">Ernst Hugo Heinrich Pfitzer</string>
+    <string name="card7_ens_description" tools:ignore="Typos">Paphiopedilum, yang sering disebut sandal Venus, adalah genus Anggrek sandal venus subfamili Cypripedioideae dari famili tanaman bunga Orchidaceae. Genus ini terdiri dari sekitar 80 taksa yang diterima termasuk
+        beberapa hibrida alami. Genus ini berasal dari Asia Tenggara, benua India, Cina selatan, New Guinea dan Kepulauan Solomon dan Bismarck. Spesies dan hibrida mereka dibudidayakan secara ekstensif, dan dikenal sebagai paphiopedilums, atau oleh paphs singkatan dalam
+        hortikultura. Jenis spesies dari genus ini adalah Paphiopedilum insigne.</string>
+
+    <string name="card8_ensiklopedia">e8</string>
+    <string name="card8_ens_title">Miltonia</string>
+    <string name="card8_ens_header1">Miltonia</string>
+    <string name="card8_ens_header2">Oncidiinae</string>
+    <string name="card8_ens_header3">-</string>
+    <string name="card8_ens_header4">Genus</string>
+    <string name="card8_ens_founder">John Lindley</string>
+    <string name="card8_ens_description" tools:ignore="Typos">Miltonia, disingkat Milt. Dalam perdagangan hortikultura, adalah genus anggrek yang dibentuk oleh sembilan spesies epifit dan delapan hibrida alami penghuni Hutan Atlantik Brasil, satu spesies yang mencapai
+        timur laut Argentina dan timur Paraguay. Genus ini didirikan oleh John Lindley pada tahun 1837, saat ia menggambarkan jenis spesiesnya, Miltonia spectabilis. Banyak spesies dikaitkan dengan Miltonia di masa lalu, namun saat ini, spesies dari Amerika Tengah dan
+        dari daerah yang lebih dingin di barat laut Amerika Selatan telah dipindahkan ke genera lainnya. Spesies Miltonia memiliki bunga yang besar dan tahan lama, seringkali dalam perbungaan multifloral. Fakta ini, bersekutu dengan spesies yang mudah tumbuh dan untuk
+        diidentifikasi, menjadikannya favorit para kolektor anggrek di seluruh dunia. Spesies genus ini banyak digunakan untuk menghasilkan hibrida buatan.</string>
+
+    <string name="card9_ensiklopedia">e9</string>
+    <string name="card9_ens_title">Epidendrum</string>
+    <string name="card9_ens_header1">Epidendrum</string>
+    <string name="card9_ens_header2">Orchidaceae</string>
+    <string name="card9_ens_header3">Asparagales</string>
+    <string name="card9_ens_header4">Genus</string>
+    <string name="card9_ens_founder">Carl Linnaeus</string>
+    <string name="card9_ens_description" tools:ignore="Typos">Epidendrum, disingkat Epi dalam perdagangan hortikultura, adalah genus neotropika besar keluarga anggrek. Dengan lebih dari 1.500 spesies, beberapa penulis menggambarkannya sebagai mega-genus. Nama genus
+        (dari bahasa Yunani ɛpɨ, epi dan δένδρον, dendron, "di atas pohon") mengacu pada kebiasaan pertumbuhan epifitnya.\n\nKetika Carl Linnaeus menamai genus ini pada tahun 1763, ia termasuk dalam genus ini semua anggrek epifit yang dikenalnya. Meskipun beberapa
+        anggrek ini masih termasuk dalam genus Epidendrum, beberapa spesies Epidendrum tetap tidak epifit.</string>
+
+    <string name="card10_ensiklopedia">e10</string>
+    <string name="card10_ens_title">Catasetum</string>
+    <string name="card10_ens_header1">Catasetum</string>
+    <string name="card10_ens_header2">Orchidaceae</string>
+    <string name="card10_ens_header3">-</string>
+    <string name="card10_ens_header4">Genus</string>
+    <string name="card10_ens_founder">Carl Sigismund Kunth</string>
+    <string name="card10_ens_description" tools:ignore="Typos">Catasetum, disingkat Ctsm dalam perdagangan hortikultura, adalah genus Anggrek epifit yang mencolok, keluarga Orchidaceae, subfamili Epidendroideae, suku Cymbidieae, subtribe Catasetinae, dengan 166
+        spesies, banyak di antaranya sangat berharga dalam hortikultura.\n\nSpesies genus Catasetum terjadi dari Meksiko sampai Argentina, termasuk sebagian besar Amerika Tengah, Hindia Barat, dan Amerika Selatan. Jumlah spesies terbesar ada di Brasil.</string>
+
+    <string name="card11_ensiklopedia">e11</string>
+    <string name="card11_ens_title">Bulbophyllum</string>
+    <string name="card11_ens_header1">Bulbophyllum</string>
+    <string name="card11_ens_header2">Bulbophyllinae</string>
+    <string name="card11_ens_header3">Asparagales</string>
+    <string name="card11_ens_header4">Genus</string>
+    <string name="card11_ens_founder">Louis Marie Aubert\nDu Petit-Thouars</string>
+    <string name="card11_ens_description" tools:ignore="Typos">Bulbophyllum adalah genus terbesar di keluarga anggrek Orchidaceae. Dengan lebih dari 2.000 spesies, itu juga merupakan salah satu genera tanaman berbunga terbesar, hanya bisa dilampaui oleh Astragalus.
+        Genus ini disingkat dalam jurnal perdagangan sebagai Bulb. Hal ini ditemukan di sebagian besar bagian yang lebih hangat di dunia: Afrika, Asia selatan, Amerika Latin, Hindia Barat, dan berbagai pulau di Samudera Hindia dan Pasifik.</string>
+
+    <string name="card12_ensiklopedia">e12</string>
+    <string name="card12_ens_title">Brassia</string>
+    <string name="card12_ens_header1">Brassia</string>
+    <string name="card12_ens_header2">Oncidiinae</string>
+    <string name="card12_ens_header3">-</string>
+    <string name="card12_ens_header4">Genus</string>
+    <string name="card12_ens_founder">Robert Brown</string>
+    <string name="card12_ens_description" tools:ignore="Typos">Brassia adalah genus anggrek yang tergolong dalam subtipe Onkidiinae. Ini berasal dari Meksiko, Amerika Tengah, Hindia Barat, dan Amerika Selatan bagian utara, dengan satu spesies (B. caudata) menyebar
+        ke Florida.\nGenus ini dinamai William Brass, ahli botani dan ilustrator Inggris, yang mengumpulkan tanaman di Afrika di bawah pengawasan Sir Joseph Banks. Singkatannya dalam perdagangan hortikultura adalah Brs.</string>
+
+    <string name="card13_ensiklopedia">e13</string>
+    <string name="card13_ens_title">Orchis</string>
+    <string name="card13_ens_header1">Orchis</string>
+    <string name="card13_ens_header2">Orchidinae</string>
+    <string name="card13_ens_header3">-</string>
+    <string name="card13_ens_header4">Genus</string>
+    <string name="card13_ens_founder">Joseph Pitton\nde Tournefort</string>
+    <string name="card13_ens_description" tools:ignore="Typos">Orchis adalah genus dalam keluarga anggrek (Orchidaceae), terjadi terutama di Eropa dan Afrika Barat Laut, dan mulai sejauh Tibet, Mongolia, dan Xinjiang. Nama ini berasal dari orkestra ὄρχι the Kuno,
+        yang berarti "testis", dari penampilan tuberoid oral bawah tanah.</string>
+
+    <string name="card14_ensiklopedia">e14</string>
+    <string name="card14_ens_title">Cypripedioideae</string>
+    <string name="card14_ens_header1">Cypripedioideae</string>
+    <string name="card14_ens_header2">Orchidaceae</string>
+    <string name="card14_ens_header3">-</string>
+    <string name="card14_ens_header4">Subkeluarga</string>
+    <string name="card14_ens_founder">-</string>
+    <string name="card14_ens_description" tools:ignore="Typos">Cypripedioideae adalah jenis anggrek yang merupakan anaksuku dari Orchidaceae. Jenis-jenis anggrek dari anak suku ini disebut anggrek sandal nona (sandal wanita) karena bentuk bunganya yang memiliki kantong
+        tahan sandal wanita. Kantong ini berfungsi untuk menangkap serangga yang bisa membantu penyerbukan.</string>
+
+    <string name="card15_ensiklopedia">e15</string>
+    <string name="card15_ens_title">Vanilla</string>
+    <string name="card15_ens_header1">Vanilla</string>
+    <string name="card15_ens_header2">Vanillinae</string>
+    <string name="card15_ens_header3">-</string>
+    <string name="card15_ens_header4">Genus</string>
+    <string name="card15_ens_founder">Philip Miller</string>
+    <string name="card15_ens_description" tools:ignore="Typos">Vanilla, anggrek vanili, membentuk genus tumbuhan berbunga dari sekitar 110 spesies pada keluarga anggrek (Orchidaceae). Anggota yang paling banyak dikenal adalah vanila berdaun rata (V. planifolia), asli Meksiko,
+        dari mana vanilla flavoring komersial diturunkan. Ini adalah satu-satunya anggrek yang banyak digunakan untuk keperluan industri dalam memberi aroma produk seperti makanan, minuman dan kosmetik, dan diakui sebagai aroma dan aroma yang paling populer. Konstituen kunci
+        yang mengemukakan karakteristik populernya adalah aldehida fenolik, vanillin.</string>
+
+    <string name="card16_ensiklopedia">e16</string>
+    <string name="card16_ens_title">Laelia</string>
+    <string name="card16_ens_header1">Laelia</string>
+    <string name="card16_ens_header2">Laeliinae</string>
+    <string name="card16_ens_header3">Asparagales</string>
+    <string name="card16_ens_header4">Genus</string>
+    <string name="card16_ens_founder">John Lindley</string>
+    <string name="card16_ens_description" tools:ignore="Typos">Laelia adalah genus kecil dari 25 spesies pada keluarga anggrek (Orchidaceae). Spesies Laelia ditemukan di daerah subtropis atau iklim sedang di Amerika Tengah dan Selatan, namun kebanyakan di Meksiko.
+        Laelia disingkat L. dalam perdagangan hortikultura.</string>
+
+    <string name="card17_ensiklopedia">e17</string>
+    <string name="card17_ens_title">Zygopetalum</string>
+    <string name="card17_ens_header1">Zygopetalum</string>
+    <string name="card17_ens_header2">Orchidaceae</string>
+    <string name="card17_ens_header3">-</string>
+    <string name="card17_ens_header4">Genus</string>
+    <string name="card17_ens_founder">William Jackson Hooker</string>
+    <string name="card17_ens_description" tools:ignore="Typos">Zygopetalum adalah genus keluarga anggrek (Orchidaceae) (subfamili Epidendroideae, suku Maxillarieae, subtribe Zygopetalinae), yang terdiri dari empat belas spesies yang saat ini dikenal.\nNama generik
+        anggrek ini, berasal dari kata Yunani zygon, berarti "kelopak kukuh". Ini mengacu pada pertumbuhan seperti kuk pada dasar bibir yang disebabkan oleh penggabungan kelopak dan sepal.\nMereka terjadi di hutan lembab di daerah dataran rendah sampai pertengahan
+        Amerika Selatan, dengan sebagian besar spesies di Brasil.</string>
+
+    <string name="card18_ensiklopedia">e18</string>
+    <string name="card18_ens_title">Ludisia</string>
+    <string name="card18_ens_header1">Ludisia</string>
+    <string name="card18_ens_header2">Goodyerinae</string>
+    <string name="card18_ens_header3">Asparagales</string>
+    <string name="card18_ens_header4">Genus</string>
+    <string name="card18_ens_founder">Achille Richard</string>
+    <string name="card18_ens_description" tools:ignore="Typos">Ludisia adalah genus anggrek yang hanya mengandung satu spesies, yaitu Ludisia discolor, biasa disebut dengan anggrek permata. Mereka berasal dari Cina selatan, Thailand, Vietnam, Filipina, Malaysia,
+        Indonesia dan Burma, dan sering dibudidayakan. Mereka adalah anggrek terestrial yang dalam keadaan alami mereka akan ditemukan tumbuh di lantai hutan. Mereka dikenal dengan dedaunan mereka, yang seringkali berwarna merah marun beludru dengan vena merah
+        yang sejajar dengan bagian tengah daun.</string>
+
+    <string name="card19_ensiklopedia">e19</string>
+    <string name="card19_ens_title">Masdevallia</string>
+    <string name="card19_ens_header1">Masdevallia</string>
+    <string name="card19_ens_header2">Pleurothallidinae</string>
+    <string name="card19_ens_header3">Asparagales</string>
+    <string name="card19_ens_header4">Genus</string>
+    <string name="card19_ens_founder">Hipólito Ruiz López</string>
+    <string name="card19_ens_description" tools:ignore="Typos">Masdevallia, disingkat Masd dalam perdagangan hortikultura, adalah genus tanaman berbunga yang besar dari Pleurothallidinae, sebuah subtribe dari keluarga anggrek (Orchidaceae). Ada lebih dari 500
+        spesies, dikelompokkan menjadi beberapa subgenera. Genus ini dinamai untuk Jose Masdeval, seorang dokter dan ahli botani di istana Charles III dari Spanyol.</string>
+
+    <string name="card20_ensiklopedia">e20</string>
+    <string name="card20_ens_title">Vanili</string>
+    <string name="card20_ens_header1">Vanilla planifolia</string>
+    <string name="card20_ens_header2">Vanilla</string>
+    <string name="card20_ens_header3">-</string>
+    <string name="card20_ens_header4">Spesies</string>
+    <string name="card20_ens_founder">-</string>
+    <string name="card20_ens_description" tools:ignore="Typos">Vanili (Vanilla planifolia) adalah tanaman penghasil bubuk vanili yang biasa dijadikan pengharum makanan. Bubuk ini dihasilkan dari buahnya yang berbentuk polong.\nTanaman vanili dikenal pertama
+        kali oleh orang-orang Indian di Meksiko, negara asal tanaman tersebut. Nama daerah dari vanili adalah Panili atau Perneli.</string>
+
+    <!--Ensiklopedia Resources-->
+    <string name="header1_ensiklopedia">Nama Ilmiah: </string>
+    <string name="header2_ensiklopedia">Klasifikasi lebih tinggi: </string>
+    <string name="header3_ensiklopedia">Ordo: </string>
+    <string name="header4_ensiklopedia">Tingkatan takson: </string>
+    <string name="founder_title_ensiklopedia">Penemu</string>
+    <string name="description_title_ensiklopedia">Deskripsi singkat</string>
+    <string name="gallery_title_ensiklopedia">Galeri foto</string>
+    <string name="galerry_hint_ensiklopedia">Ketuk disini untuk melihat galeri foto…</string>
+    <string name="detail_ensiklopedia">Baca lebih lanjut…</string>
+    <string name="ensiklopedia_reference1">Referensi: Wikipedia</string>
+
+
+    <!--Development String Resources-->
+    <string name="test">Lorem Ipsum</string>
+    <string name="wip">Fitur ini sedang dalam tahap pengembangan…</string>
+    <string name="wip_info">Kami akan menambahkan fitur lainnya nanti…</string>
+    <string name="beta_program_title">Aplikasi dalam tahap pengembangan</string>
+    <string name="beta_program_description">Perlu Anda ketahui bahwa aplikasi <b>Orchidpedia</b> sedang dalam tahap pengembangan.
+        Mohon maaf jika aplikasi tidak berjalan dengan sempurna dan terjadi bug di beberapa perangkat.</string>
+    <string name="beta_program_version">Versi aplikasi saat ini:</string>
+    <string name="beta_program_approve">Mengerti</string>
+    <string name="beta_program_decline">Tutup aplikasi</string>
+    <string name="beta_program_exiting_app">Menutup aplikasi…</string>
+
+
+    <!--About App Resource-->
+    <string name="title_about_app">Tentang Aplikasi</string>
+    <string name="title_source_reference">Sumber dan Referensi</string>
+    <string name="title_app_lib">Perangkat lunak pihak ketiga</string>
+    <string name="developed_by">Dikembangkan oleh\nEzra Lazuardy Wijaya</string>
+    <string name="about_app_version">Versi</string>
+    <string name="about_app_dev">Pengembang Aplikasi</string>
+    <string name="developer">Ezra Lazuardy Wijaya</string>
+    <string name="dev_info">Developer, UI &amp; UX Designer</string>
+
+
+    <!--About App Resources-->
+    <string name="app_res1">Wikipedia</string>
+    <string name="app_res2">WikiHow</string>
+    <string name="app_res3">Google</string>
+    <string name="app_res4">Stack Overflow</string>
+    <string name="app_res5">Android Developers</string>
+    <string name="app_res6">Flaticon</string>
+    <string name="app_res7">Freepik</string>
+    <string name="app_res_type1">Referensi Materi:</string>
+    <string name="app_res_type2">Referensi Kode:</string>
+    <string name="app_res_type3">Referensi Gambar &amp; Ikon:</string>
+
+
+    <!--About App Library Resources-->
+    <string name="app_lib1">Picasso</string>
+    <string name="app_lib2">Rounded image view</string>
+    <string name="app_lib3">Circle image view</string>
+
+
+    <!--App String-->
+    <string name="app_name">Orchidpedia</string>
+    <string name="app_version">1.0</string>
+    <string name="app_package_name">com.orchidpedia</string>
+    <string name="app_description">Ensiklopedia mini yang membahas seputar Anggrek</string>
+    <string name="title_home">Menu</string>
+    <string name="title_dashboard">Ensiklopedia</string>
+    <string name="dialog_exit_app_title">Keluar Aplikasi</string>
+    <string name="dialog_exit_app_description">Anda yakin ingin keluar dari aplikasi?</string>
+    <string name="btn_dialog_exit_yes">Ya</string>
+    <string name="btn_dialog_exit_no">Tidak</string>
+</resources>
