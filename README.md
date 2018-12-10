@@ -2,7 +2,6 @@
 
 ## Orchidpedia
 
-**Orchidpedia is a bite-sized Orchid Encyclopedia for Android App.**
-This app will give you information about Orchid. It will show many genus of orchid, tutorial for looking after an orchid, and the description of each genus of orchid. You can use this application without internet connection (offline). Orchidpedia is fully developed by [Ezra Lazuardy](https://github.com/ezralazuardy), and open source.
+**Orchidpedia is a bite-sized Orchid Encyclopedia for Android App**. This app will give you information about Orchid, like genus of orchid, tutorial for looking after an orchid, and also the description of each genus of orchid.
 
 [**Download the app here.**](https://github.com/ezralazuardy/Orchidpedia/raw/master/Orchidpedia.apk)
